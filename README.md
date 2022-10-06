@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @IPMihnev
+- 👀 I’m interested in Software
+- 🌱 I’m currently learning Angular 14
